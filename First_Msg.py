@@ -14,7 +14,3 @@ print (message)
 message=" "
 print(message)
 
-print("Just a test")
-
-message="Penny is napping"
-print(message)
