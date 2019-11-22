@@ -15,3 +15,6 @@ print(message)
 
 message="Fiona Hill is pretty badass"
 print (message)
+
+message="Penny is napping"
+print(message)
