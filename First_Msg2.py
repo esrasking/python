@@ -18,3 +18,6 @@ print (message)
 
 message="Penny is napping"
 print(message)
+
+message="Fiona is also napping"
+print(message)
