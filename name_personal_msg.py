@@ -6,7 +6,12 @@ print(" ")
 nickname = "Miss Piggy"
 print(nickname)
 
-print(f"Welcome, {nickname}. Would you like some bacon?")
+print(f"Welcome, {nickname}. Would you like some bacon?\n")
+
+name = "Kermit"
+print(name)
+
+print(f"Hello, {name}. Is it easy being green?")
 
 
 #End Program
