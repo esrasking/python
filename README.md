@@ -22,3 +22,4 @@ Trying to commit new code to my GitHub.
 20191120
   Added the following files to my repository:
     - famous_quote.py
+    - famous_quote2.py
