@@ -23,3 +23,6 @@ Trying to commit new code to my GitHub.
   Added the following files to my repository:
     - famous_quote.py
     - famous_quote2.py
+    
+20191201
+  Added stripping_names.py to repository
