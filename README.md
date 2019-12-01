@@ -18,7 +18,7 @@ Trying to commit new code to my GitHub.
   - name_personal_msg.py,
   - name_cases.py
 
-20191120 1:30am Added the following files to the repository:
+20191130 1:30am Added the following files to the repository:
   - famous_quote.py,
   - famous_quote2.py
     
