@@ -26,3 +26,4 @@ Trying to commit new code to my GitHub.
     
 20191201
   Added stripping_names.py to repository
+  Added numbers.py to repository
