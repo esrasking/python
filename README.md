@@ -24,4 +24,6 @@ Trying to commit new code to my GitHub.
     
 20191201 Added the following files to the repository:
   - stripping_names.py,
-  - numbers.py
+  - numbers.py,
+  - number_eight.py,
+  - fave_no.py
