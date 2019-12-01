@@ -28,3 +28,8 @@ Trying to commit new code to my GitHub.
   - number_eight.py,
   - fave_no.py
   - import_this.py
+  
+20191201 Added the following Chapter 3 files to the repository:
+  - ch3_names.py,
+  - ch3_greetings.py,
+  - ch3_own_list.py
