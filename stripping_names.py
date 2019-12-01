@@ -42,10 +42,5 @@ print(f"{name1c.title()}\n{name2c.title()}\n{name3c.title()}\n")
 print("Here are the names formatted, indented and stripped of left and right whitespace\n")
 print(f"\t{name1a.strip().title()}\n\t{name2a.strip().title()}\n\t{name3a.strip().title()}")
 
-
-
-
-
-
 #End Program
 print(" ")
