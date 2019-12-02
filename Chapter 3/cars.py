@@ -31,6 +31,5 @@ print (cars)
 len(cars)
 print(len(cars))
 
-
 #End Program
 print (f"\nEND PROGRAM\n")
