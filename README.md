@@ -34,3 +34,6 @@ Trying to commit new code to my GitHub.
   - ch3_greetings.py,
   - ch3_own_list.py,
   - list_elements.py
+  
+20191202 Added the following Chapter 3 files to the repository:
+  - guest_list.py
