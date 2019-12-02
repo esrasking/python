@@ -42,4 +42,5 @@ Trying to commit new code to my GitHub.
   - shrinking_guest_list,
   - cars.py,
   - ch3_seeing_the_world.py,
-  - ch3_dinner_guests.py
+  - ch3_dinner_guests.py,
+  - ch3_every_list_function.py
