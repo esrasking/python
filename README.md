@@ -36,4 +36,5 @@ Trying to commit new code to my GitHub.
   - list_elements.py
   
 20191202 Added the following Chapter 3 files to the repository:
-  - guest_list.py
+  - guest_list.py,
+  - changing_guest_list.py
