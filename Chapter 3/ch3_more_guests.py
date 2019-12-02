@@ -44,7 +44,6 @@ print(f"Dear {guests[3].title()}, we would like to cordially invite you to our n
 print(f"Dear {guests[4].title()}, we would like to cordially invite you to our next roundtable dinner. Please RSVP by Friday.\n")
 print(f"Dear {guests[5].title()}, we would like to cordially invite you to our next roundtable dinner. Please RSVP by Friday.\n")
 
-
 #End Program
 print('')
 print("END PROGRAM")
