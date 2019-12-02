@@ -38,4 +38,5 @@ Trying to commit new code to my GitHub.
 20191202 Added the following Chapter 3 files to the repository:
   - guest_list.py,
   - changing_guest_list.py,
-  - more_guests.py
+  - more_guests.py,
+  - shrinking_guest_list
