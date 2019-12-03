@@ -46,4 +46,5 @@ Trying to commit new code to my GitHub.
   - ch3_every_list_function.py
   
   20191202 Added the following Chapter 4 files to the repository:
-    - magicians.py
+    - magicians.py,
+    - pizzas.py
