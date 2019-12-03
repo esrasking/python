@@ -45,17 +45,17 @@ Trying to commit new code to my GitHub.
   - ch3_dinner_guests.py,
   - ch3_every_list_function.py
   
-  20191203 Added the following Chapter 4 files to the repository:
-    - magicians.py,
-    - pizzas.py,
-    - animals.py,
-    - even_numbers.py,
-    - squares.py,
-    - counting_to_twenty.py,
-    - one_million.py,
-    - summing_million.py,
-    - odd_numbers.py,
-    - threes.py,
-    - cubes.py,
-    - cube_comprehension.py
+20191203 Added the following Chapter 4 files to the repository:
+  - magicians.py,
+  - pizzas.py,
+  - animals.py,
+  - even_numbers.py,
+  - squares.py,
+  - counting_to_twenty.py,
+  - one_million.py,
+  - summing_million.py,
+  - odd_numbers.py,
+  - threes.py,
+  - cubes.py,
+  - cube_comprehension.py
     
