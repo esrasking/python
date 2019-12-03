@@ -40,4 +40,10 @@ Trying to commit new code to my GitHub.
   - changing_guest_list.py,
   - more_guests.py,
   - shrinking_guest_list,
-  - cars.py
+  - cars.py,
+  - ch3_seeing_the_world.py,
+  - ch3_dinner_guests.py,
+  - ch3_every_list_function.py
+  
+  20191202 Added the following Chapter 4 files to the repository:
+    - magicians.py
