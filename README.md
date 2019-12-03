@@ -50,4 +50,12 @@ Trying to commit new code to my GitHub.
     - pizzas.py,
     - animals.py,
     - even_numbers.py,
-    - squares.py
+    - squares.py,
+    - counting_to_twenty.py,
+    - one_million.py,
+    - summing_million.py,
+    - odd_numbers.py,
+    - threes.py,
+    - cubes.py,
+    - cube_comprehension.py
+    
