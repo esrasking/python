@@ -57,5 +57,7 @@ Trying to commit new code to my GitHub.
   - odd_numbers.py,
   - threes.py,
   - cubes.py,
-  - cube_comprehension.py
+  - cube_comprehension.py,
+  - players.py,
+  - foods.py
     
