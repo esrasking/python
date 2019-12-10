@@ -6,7 +6,7 @@
 print(f"\nSTART PROGRAM\n")
 
 #Slicing a list, the following code will only print the first three players in the list
-#Remember, Python stops one element shot of the second index specified. 
+#Remember, Python stops one element short of the second index specified. 
 #Asking for the first three values will generate index numbers 0, 1, and 2.
 
 players = ['charles','martina','michael','florence','eli']
@@ -30,7 +30,7 @@ print(players[2:])
 #last three terms of the list
 print(players[-3:])
 
-#Looping through a slice
+#Looping through a slice, the code below starts at the beginning and then returns first 3 terms
 print("\nHere are the first three players on my team:\n")
 for player in players[:3]:
     print(player.title())
