@@ -30,5 +30,32 @@ print(friend_pizzas)
 print(f"My favorite pizzas are:\n{my_pizzas}\n")
 print(f"My friend's favorite pizzas are:\n{friend_pizzas}\n")
 
+#4.12 More Loops
+my_foods = ['pizza','falafel','carrot cake']
+
+#The command below establishes a clone of the original list
+friend_foods = my_foods[:]
+print("\nMy fave foods are:\n")
+print(my_foods)
+
+print("\nMy friend's fave foods are:\n")
+print(friend_foods)
+
+#To prove we have 2 different lists, I'm going to append different values to each list
+my_foods.append('wine')
+friend_foods.append('ice cream')
+print(my_foods)
+print(friend_foods)
+
+#Here are two for loops to print the list items:
+
+print(f"\nHere is a list of my favorite foods:\n")
+for food in my_foods:
+    print(food)
+
+print(f"\nHere are my friend's favorite foods:\n")
+for food in friend_foods:
+    print(food)
+
 #End Program
 print(f"\nEND PROGRAM\n")
