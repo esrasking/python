@@ -65,4 +65,6 @@ Trying to commit new code to my GitHub.
   - slices_and_loops.py (revised),
   - dimensions.py,
   - buffet.py,
-    
+
+20191210 Added the following Chapter 5 files:
+  - conditional_tests.py
