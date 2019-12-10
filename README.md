@@ -62,5 +62,5 @@ Trying to commit new code to my GitHub.
   - foods.py
   
 20191209 Added the following Chapter 4 files:
-  - slices_and_loops.py
+  - slices_and_loops.py (revised)
     
