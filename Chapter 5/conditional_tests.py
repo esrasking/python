@@ -26,5 +26,15 @@ requested_topping = 'mushroom'
 if requested_topping!= 'anchovies':
     print (f"\nHold the anchovies!\n")
 
+#Exercise 5.1
+car = 'subaru'
+print("Is car == 'subaru'? I predict True.")
+print(car == 'subaru')
+
+print("\nIs car == 'audi'? I predict False.")
+print(car == 'audi')
+
+
+
 #End Program
 print(f"\nEND PROGRAM\n")
