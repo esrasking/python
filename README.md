@@ -67,4 +67,5 @@ Trying to commit new code to my GitHub.
   - buffet.py,
 
 20191210 Added the following Chapter 5 files:
-  - conditional_tests.py
+  - conditional_tests.py,
+  - amusement_parks.py,
