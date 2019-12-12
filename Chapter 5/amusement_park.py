@@ -32,5 +32,22 @@ print(f"Your admission price is {price}.\n")
 # without using the f (format) method.
 print("\nYour admission cost is $" + str(price)+".\n")
 
+#Adding a senior discount with additional elif statements
+print(f"\n------------------------------------\n")
+age = 67
+
+if age < 4:
+    price = 0
+elif age < 18:
+    price = 25
+elif age < 65:
+    price = 40
+elif age >= 65:
+    price = 20
+
+print(f"The age you entered is {age}.")
+print(f"Your admission price is {price}.\n")
+
+
 #End Program
 print(f"\nEND PROGRAM\n")
