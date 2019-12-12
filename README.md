@@ -68,4 +68,4 @@ Trying to commit new code to my GitHub.
 
 20191210 Added the following Chapter 5 files:
   - conditional_tests.py,
-  - amusement_parks.py,
+  - amusement_parks.py (revised),
