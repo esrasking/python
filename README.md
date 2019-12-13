@@ -70,6 +70,11 @@ Trying to commit new code to my GitHub.
   - conditional_tests.py,
   - amusement_parks.py (revised),
   - toppings.py,
+  
+20191212 Added the following Chapter 5 files:
   - alien_colors.py,
   - stages_of_life.py,
   - favorite_fruits.py,
+  
+20191213 Added the following Chapter 5 files:
+  - toppings.py (revised),
