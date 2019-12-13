@@ -78,3 +78,5 @@ Trying to commit new code to my GitHub.
   
 20191213 Added the following Chapter 5 files:
   - toppings.py (revised),
+  - hello_admin_v2.py,
+  
