@@ -72,3 +72,4 @@ Trying to commit new code to my GitHub.
   - toppings.py,
   - alien_colors.py,
   - stages_of_life.py,
+  - favorite_fruits.py,
