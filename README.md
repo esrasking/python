@@ -71,3 +71,4 @@ Trying to commit new code to my GitHub.
   - amusement_parks.py (revised),
   - toppings.py,
   - alien_colors.py,
+  - stages_of_life.py,
