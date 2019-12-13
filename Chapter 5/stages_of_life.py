@@ -19,6 +19,5 @@ elif age >= 20 and age <65:
 else:
     print("Being older means you don't have to give a shit what people think about you.")
 
-
 #End Program 
 print(f"\nEND PROGRAM\n")
