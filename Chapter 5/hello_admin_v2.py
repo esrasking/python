@@ -6,7 +6,6 @@ print(f"\nSTART PROGRAM\n")
 
 print(f"------------------------------\n")
 
-
 user_names = ['ana','david','jason','liz','georgia','admin']
 
 for user in user_names:
@@ -16,7 +15,6 @@ for user in user_names:
         print(f"Hello {user.title()}, thank you for logging in today.")
 
 print(f"\n------------------------------")
-
 
 #End Program
 print(f"\nEND PROGRAM\n")
