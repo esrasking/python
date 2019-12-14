@@ -83,3 +83,5 @@ Trying to commit new code to my GitHub.
   - checking_usernames.py,
   - ordinal_numbers.py
   
+20191214 Added the following Chapter 6 files:
+  - alien.py,
