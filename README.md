@@ -84,4 +84,4 @@ Trying to commit new code to my GitHub.
   - ordinal_numbers.py
   
 20191214 Added the following Chapter 6 files:
-  - alien.py,
+  - alien.py (revised),
