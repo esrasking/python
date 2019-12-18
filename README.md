@@ -89,4 +89,5 @@ Trying to commit new code to my GitHub.
 20191217 Added the following Chapter 6 files:
   - alien.py,
   - favorite_languages.py,
-  - alien_no_points.py
+  - alien_no_points.py,
+  - person.py,
