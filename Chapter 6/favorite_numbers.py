@@ -13,9 +13,10 @@ favorite_numbers = {
     'oma': 5
 }
 
-print(favorite_numbers)
-favorite_number = favorite_numbers['ana zoe']
-print(f"Ana Zoe's favorite number is {favorite_number}.")
+for name in favorite_numbers:
+    favorite_number = favorite_numbers[name]
+
+    print(f"{name.title()}'s favorite number is {favorite_number}.")
 
 print(f"------------------------------")
 #End Program
