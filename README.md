@@ -91,3 +91,6 @@ Trying to commit new code to my GitHub.
   - favorite_languages.py,
   - alien_no_points.py,
   - person.py,
+
+20191218 Added the following Chapter 6 files:
+ - favorite_numbers.py
