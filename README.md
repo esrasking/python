@@ -101,3 +101,5 @@ Trying to commit new code to my GitHub.
 20191219 Added the following Chapter 6 files:
  - rivers.py,
  - polling.py,
+ 
+20191220 Modified polling.py
