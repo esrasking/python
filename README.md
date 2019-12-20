@@ -97,3 +97,6 @@ Trying to commit new code to my GitHub.
  - glossary.py,
  - user.py,
  - favorite_languages_2.py (revised),
+ 
+20191219 Added the following Chapter 6 files:
+ - rivers.py,
