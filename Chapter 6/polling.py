@@ -15,7 +15,10 @@ favorite_languages = {
 }
 
 for user in users:
-    
+    if user in favorite_languages:
+        print(f"Thank you for already taking the poll, {user.title()}.")
+    else:
+        print(f"Please take our poll, {user.title()}.")
 
 print(f"------------------------------")
 #End Program
