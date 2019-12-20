@@ -9,8 +9,6 @@ Read up on heading conventions and watched tutorial on pushing commitments to Gi
 
 Am reading Chapter 1 and am about to begin setup for first Hello World exercise.
 
-Trying to commit new code to my GitHub.
-
 20191129 Added the following Chapter 2 files to the repository:
   - hello_world2.py,
   - apostrophe.py,
@@ -103,3 +101,6 @@ Trying to commit new code to my GitHub.
  - polling.py,
  
 20191220 Modified polling.py
+
+20191220 Added the following Chapter 6 files:
+ - aliens.py,
