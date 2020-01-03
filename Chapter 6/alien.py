@@ -56,7 +56,5 @@ print(alien_0)
 del alien_0['points']
 print(alien_0)
 print(f"------------------------------")
-
-
 #End Program
 print(f"\nEND PROGRAM\n")
