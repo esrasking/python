@@ -104,3 +104,5 @@ Am reading Chapter 1 and am about to begin setup for first Hello World exercise.
 
 20191220 Added the following Chapter 6 files:
  - aliens.py,
+ 
+20200103 Revised the aliens.py program 
