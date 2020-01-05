@@ -108,3 +108,5 @@ Am reading Chapter 1 and am about to begin setup for first Hello World exercise.
 20200103 Revised the aliens.py program 
 20200104 Added the following Chapter 6 files:
  - pizza.py,
+ - favorite_languages_3.py,
+ - many_users.py,
