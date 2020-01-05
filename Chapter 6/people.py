@@ -41,7 +41,6 @@ for friend, friend_info in person.items():
     print(f"Age: {friend_info['age']}")
     print(f"Location: {friend_info['location'].title()}\n")
 
-
 print("--------------------\n")
 #END PROGRAM
 print(f"END PROGRAM")
