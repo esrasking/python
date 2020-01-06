@@ -115,3 +115,5 @@ Am reading Chapter 1 and am about to begin setup for first Hello World exercise.
 20200105 Added the following Chapter 6 files:
  - people.py,
  - pets.py,
+
+20200106 Completed the pets.py assignment
