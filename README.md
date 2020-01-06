@@ -112,4 +112,6 @@ Am reading Chapter 1 and am about to begin setup for first Hello World exercise.
  - favorite_languages_3.py,
  - many_users.py,
 
-20200105 Added people.py
+20200105 Added the following Chapter 6 files:
+ - people.py,
+ - pets.py,
